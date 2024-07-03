@@ -3,7 +3,6 @@
 🎓 I'm a graduate student at the [University of Illinois at Chicago](https://www.uic.edu/) (UIC), pursuing a Master of Science in Business Analytics. 
 Originally from Spain, I hold a Bachelor's degree in Industrial Engineering.
 
-🌟 My passion lies at the intersection of data and business, and I'm keen on leveraging analytics to drive strategic decisions and innovations.
 
 🔧 Skills:
 
@@ -22,6 +21,8 @@ Originally from Spain, I hold a Bachelor's degree in Industrial Engineering.
     Machine learning applications in business
 
 🌐 Feel free to connect with me!
+
+
 <!--
 **SNiev2001/SNiev2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
