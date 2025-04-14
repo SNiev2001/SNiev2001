@@ -2,12 +2,10 @@
 
 <p>🧑‍🎓: Currently studying a MS in Business Analytics in  <a href="https://uic.edu">UIC</a>.</p>
 <p>⚙️: Did an undergraduate degree in Industrial Engineering in Spain studying at <a href="https://www.uah.es/en/">UAH</a>.</p>
+<p>⚙️: Love fitness, gymnastics and reading a nice book! </p>
 
 
-
-##
-
-## 💼 Where I've Worked
+## 💼 Where I Have Worked
 
 
 <table>
@@ -188,6 +186,7 @@
   ![Anglais](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge)
 </div>
 
+## GitHub Stats
 <!-- GitHub Stats -->
 <div align="block">
   <div>
@@ -209,8 +208,8 @@
 <div align="center">
   <p>🤝 Open to new oportunities of growth</p>
 </div>
-📋 [README Improvement Task List](./TODO.md)
 
+[README To-Do List](./TODO.md)
 
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: [https://www.linkedin.com/in/nicolas0mar/](https://www.linkedin.com/in/sergio-nievas/)
